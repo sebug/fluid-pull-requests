@@ -10,4 +10,7 @@ Good point (and what we don't have) - automatic follow-up on commits.
 Formalize rules:
  - What is the definition of an inexperienced developer?
  - Which parts of the system are critical
- 
+
+Point: feedback loop
+
+Introduce the tool progressively - in the beginning it can just be labels.
