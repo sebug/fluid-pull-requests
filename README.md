@@ -19,3 +19,7 @@ https://github.com/reviewpad/reviewpad
 
 https://martinfowler.com/articles/ship-show-ask.html
 
+In the demo:
+ - Install the app from the marketplace
+ - Prepare the main file
+ - See what reviewpad does
