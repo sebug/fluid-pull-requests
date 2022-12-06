@@ -14,3 +14,8 @@ Formalize rules:
 Point: feedback loop
 
 Introduce the tool progressively - in the beginning it can just be labels.
+
+https://github.com/reviewpad/reviewpad
+
+https://martinfowler.com/articles/ship-show-ask.html
+
